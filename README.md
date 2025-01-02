@@ -1,4 +1,4 @@
-# Machine Learning Practice
+# Machine Learning Playground
 
 Este repositorio contiene prácticas y ejercicios de Machine Learning organizados por tipo de aprendizaje. El objetivo es explorar diferentes técnicas, aprender su implementación práctica y entender cómo resolver problemas reales utilizando estas herramientas.
 
